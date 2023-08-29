@@ -33,7 +33,7 @@ export default hopeTheme({
       displayFooter: true,
 
       blog: {
-        description: "终身学习者",
+        description: "保持开放",
         intro: "/index.html",
       },
 

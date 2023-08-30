@@ -8,15 +8,10 @@ export default hopeTheme({
   author: {
     name: "PJW",
   },
-
   iconAssets: "fontawesome-with-brands",
-
   logo: "/cool dog.jpg",
-
   repo: "https://github.com/OpenPJW/openpjw.github.io",
-
   docsDir: "src",
-
   locales: {
     /**
      * Chinese locale config
@@ -33,8 +28,9 @@ export default hopeTheme({
       displayFooter: true,
 
       blog: {
-        description: "保持开放",
+        description: "长期主义",
         intro: "/index.html",
+        timeline: "人生苦短"
       },
 
       // page meta

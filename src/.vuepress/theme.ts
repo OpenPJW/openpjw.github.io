@@ -24,7 +24,8 @@ export default hopeTheme({
       sidebar: zhSidebar,
 
       footer: "",
-
+      repo: "https://github.com/OpenPJW/openpjw.github.io",
+      docsDir: "src",
       displayFooter: true,
 
       blog: {

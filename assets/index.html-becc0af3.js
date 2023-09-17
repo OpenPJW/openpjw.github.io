@@ -1,0 +1,1 @@
+import{_ as e}from"./plugin-vue_export-helper-c27b6911.js";import{o as t,c as o,a as c}from"./app-60f0e3b0.js";const n={},_=c("p",null,"保持好奇心：尝试更多事、读更多书、见更多人、去更多地方、问更多问题",-1),s=[_];function r(a,l){return t(),o("div",null,s)}const f=e(n,[["render",r],["__file","index.html.vue"]]);export{f as default};

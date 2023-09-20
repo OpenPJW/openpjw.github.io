@@ -24,12 +24,13 @@ export default hopeTheme({
       sidebar: zhSidebar,
 
       footer: "",
+      copyright: "2022-2023",
       repo: "https://github.com/OpenPJW/openpjw.github.io",
       docsDir: "src",
       displayFooter: true,
 
       blog: {
-        description: "长期主义",
+        description: "保持好奇心：<br>读更多书、见更多人、去更多地方<br>尝试更多事、问更多问题",
         intro: "/index.html",
         timeline: "人生苦短"
       },

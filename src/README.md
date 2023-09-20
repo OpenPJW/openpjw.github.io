@@ -9,5 +9,3 @@ heroFullScreen: true
 bgImage: backgroud.jpg
 footer: 
 ---
-
-保持好奇心：尝试更多事、读更多书、见更多人、去更多地方、问更多问题

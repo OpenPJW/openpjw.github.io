@@ -7,8 +7,8 @@ export default defineUserConfig({
   locales: {
     "/": {
       lang: "zh-CN",
-      title: "PJW的开源笔记",
-      description: "PJW公开写作的地方",
+      title: "PJW的网络空间",
+      description: "PJW想分享的～",
     },
   },
 
